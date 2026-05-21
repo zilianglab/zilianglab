@@ -13,7 +13,7 @@ What's on this profile
 
 Case studies — how I've approached consumer AI product decisions at Visva and elsewhere \
 PRDs — sanitized writing on AI features I've shipped or proposed\
-Evals & experiments — small prototypes that pressure-test model choices for real product decisions
+Evals & experiments — small prototypes that pressure-test model choices for real product decisions\
 Teardowns — AI products I admire (or don't), and what I'd change
 
 
